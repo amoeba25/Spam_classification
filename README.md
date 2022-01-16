@@ -1,3 +1,3 @@
 # Spam_classification
 
-NLP assignment one - program to classify if the email is spam or not
+NLP assignment one - program to classify if the message is spam or not
